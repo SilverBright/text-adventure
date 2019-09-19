@@ -10,4 +10,3 @@ No instructions yet.
 
 Soon...
 
-<img src="src/floppydisk.jpg" width="75%">
